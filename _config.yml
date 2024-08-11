@@ -1,5 +1,5 @@
 # Site settings
-title: PHOTORAMA
+title: PIECOMMADOT
 email: ""
 description: "Photo Journal"
 url: "https://manfredliao.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   pie.comma.dot
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
